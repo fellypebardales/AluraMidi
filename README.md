@@ -1,4 +1,4 @@
-![Logo da frutaefruto](https://user-images.githubusercontent.com/86852698/182039029-4bc30141-6a7c-4ea3-ac52-c928a618cd5b.jpg)
+![radmealuramidi](https://user-images.githubusercontent.com/86852698/184226800-746f263b-5dc6-4693-a6cc-50ce8dbcf2af.jpg)
 
 
 <p align="center">
