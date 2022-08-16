@@ -21,7 +21,7 @@
 
 ## Descrição do projeto 
 <p align="justify">
-  O projeto foi desenvolvido durante o curso "<b>JavaScript para Web: Crie páginas dinâmicas</b>" da plataforma de curso e aprendizado Alura. É um pequeno programa de sons de bateria. Desenvolvido de forma dinâmica para associar o JavaScript com HTML através do DOM.
+  O projeto foi desenvolvido durante o curso "<b>JavaScript para Web: Crie páginas dinâmicas</b>" da plataforma de curso e aprendizado Alura. É um pequeno programa de sons de bateria desenvolvido de forma dinâmica para associar o JavaScript com HTML através do DOM.
   <br>
   O Alura Midi reproduz sons do instrumento.
 </p>
@@ -29,7 +29,7 @@
 <br>
 
 ##  Funcionalidades do projeto
-- ``Ao clicar em um dos quadrados disponíveis e será emitido o som do instrumento.``
+- ``Ao clicar em um dos quadrados disponíveis será emitido o som do instrumento.``
 
 <br>
 
@@ -57,4 +57,4 @@ Você pode acessar a página do projeto [aqui](https://alura-midi-one.vercel.app
 <br>
 
 ## Licença
-Projeto está licenciado sob a [Licença MIT](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Projeto está licenciado sob a [Licença MIT](https://github.com/fellypebardales/alura-midi/blob/4728144f98de2c0a60f81bd5f0fef539fa4e1475/licenca.txt).
